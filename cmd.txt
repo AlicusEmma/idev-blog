@@ -1,0 +1,3 @@
+hexo generate
+hexo server
+hexo server -d (support admin ui)
